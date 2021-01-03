@@ -1,7 +1,7 @@
 # Supervised_Learning_Final_Project
 
 
-#### Scenario for this given project: 
+### Scenario for this given project: 
 
 You work at a multinational bank that is aiming to increase it's market share in Europe. Recently, it has been noticed that the number of customers using the banking services has declined, and the bank is worried that existing customers have stopped using them as their main bank.
 
